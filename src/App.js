@@ -9,6 +9,10 @@ function App() {
   return (
     <div className="App">
       <Header/>
+      <div className='container'>
+        <h1 className='text-danger'>Welcome to react js</h1>
+
+      </div>
       <Card/>
       <Footer/>
        

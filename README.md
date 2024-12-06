@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 import below bootstrap css and JS in index js file 
 import "bootstrap/dist/js/bootstrap.bundle";
 import "bootstrap/dist/css/bootstrap.css";
+
+### `npm i react-bootstarp` import boot starp lib
+It will import react base boot strap no need to add css and js like boot starp 
+component detail you can check from [https://react-bootstrap.netlify.app/](https://react-bootstrap.netlify.app/)
